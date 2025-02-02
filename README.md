@@ -23,37 +23,37 @@ To successfully run this experiment, you will need the following hardware and so
 
 1. Clone the project and navigate to the project directory:
 
-   git clone https://github.com/ZMW-DW/DeepMSI-MER.git
-   cd DeepMSI-MER
+      git clone https://github.com/ZMW-DW/DeepMSI-MER.git
+      cd DeepMSI-MER
    
 2. Create and activate a conda environment:
    
-   conda create --name your_env_name python=3.x
-   conda activate your_env_name
+      conda create --name your_env_name python=3.x
+      conda activate your_env_name
 
 3. Install the project dependencies:
 
-   pip install -r requirements.txt
+      pip install -r requirements.txt
 
 ### Running IEMOCAP Dataset Experiment
 
 1. Navigate to the IEMOCAP folder:
    
-   cd IEMOCAP
+      cd IEMOCAP
    
 2. Run the IEMOCAP dataset experiment:
    
-   python run_IEMOCAP.py
+      python run_IEMOCAP.py
 
 ### Running MELD Dataset Experiment
 
 1. Navigate to the MELD folder:
    
-   cd MELD
+      cd MELD
    
 2. Run the MELD dataset experiment:
    
-   python run_MELD.py
+      python run_MELD.py
 
 Later, I will upload the preprocessed datasets to a public website. Please ensure that you place the datasets into the data folder and store them according to the dataset name. The specific storage paths and naming conventions can be referenced from the config file in the IEMOCAP folder, or you can adjust them according to your preference.
 
