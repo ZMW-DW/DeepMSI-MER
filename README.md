@@ -57,3 +57,8 @@ To successfully run this experiment, you will need the following hardware and so
 
 Later, I will upload the preprocessed datasets to a public website. Please ensure that you place the datasets into the data folder and store them according to the dataset name. The specific storage paths and naming conventions can be referenced from the config file in the IEMOCAP folder, or you can adjust them according to your preference.
 
+
+The download link for the processed IEMOCAP dataset is as follows:
+
+      https://pan.baidu.com/s/1OXYrDnNdxx72vIrSppdZ1w?pwd=4uaa
+
