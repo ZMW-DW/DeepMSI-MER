@@ -9,7 +9,7 @@ The project implements **DeepMSI-MER**, a multi-modal information fusion-based e
 To successfully run this experiment, you will need the following hardware and software configurations:
 
 ### Hardware Requirements
-- At least two **H20/96GB** machines are required to run the experiment.
+- At least two H20/96GB machines and 300GB of memory are required to run the experiment.
 
 ### Software Requirements
 - **Linux** operating system.
