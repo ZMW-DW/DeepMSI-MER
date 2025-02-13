@@ -6,7 +6,7 @@ import pandas as pd
 import torch
 import torch.optim
 import IEMOCAP.config as CFG
-from clip import Multimodel
+from Model import Multimodel
 from loss import Mutiloss
 import json
 import os
