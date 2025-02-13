@@ -6,7 +6,7 @@ import pandas as pd
 import torch
 import torch.optim
 import MELD.config as CFG
-from Model import Multimodel
+from DeepMSI-MER import Multimodel
 from loss import Mutiloss
 import json
 import os
