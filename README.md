@@ -15,7 +15,6 @@ To successfully run this experiment, you will need the following hardware and so
 - **Linux** operating system.
 - **conda** environment management tool.
 - Python 3.x.
-- Project dependencies: Please install the required packages from the `requirements.txt` file.
 
 ## Environment Setup
 
@@ -33,7 +32,7 @@ To successfully run this experiment, you will need the following hardware and so
 
 3. Install the project dependencies:
 
-      pip install -r requirements.txt
+      pip install torch numpy open-cv pandas sklearn tqdm
 
 ### Running IEMOCAP Dataset Experiment
 
