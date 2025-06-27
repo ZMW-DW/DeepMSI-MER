@@ -32,7 +32,7 @@ To successfully run this experiment, you will need the following hardware and so
 
 3. Install the project dependencies:
 
-      pip install torch numpy open-cv pandas sklearn tqdm
+      pip install torch numpy opencv-python pandas sklearn tqdm
 
 ### Running IEMOCAP Dataset Experiment
 
