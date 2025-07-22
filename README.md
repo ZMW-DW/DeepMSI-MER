@@ -66,3 +66,5 @@ The download link for the processed MELD dataset is as follows:
 ```sh
       https://pan.baidu.com/s/1oJ19xlG7ad0DQjZ9eM4Ovg?pwd=i76d
 ```
+
+And you also download IEMOCAP and MELD datasets from this url： https://huggingface.co/datasets/david-DW-ZMW/DeepMSI_datasets
