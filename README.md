@@ -16,6 +16,15 @@ To successfully run this experiment, you will need the following hardware and so
 - **conda** environment management tool.
 - Python 3.x.
 
+## Dataset Download Instructions
+
+The preprocessed datasets will be uploaded to a public repository. Please ensure that all datasets are placed under the `data/` directory and organized according to their respective dataset names. You may refer to the configuration file in the `IEMOCAP/` folder for the specific storage structure and naming conventions, or adjust them based on your own preferences.
+
+You can download the **IEMOCAP** and **MELD** datasets from the following Hugging Face link:
+
+🔗 **[https://huggingface.co/datasets/david-DW-ZMW/DeepMSI_datasets](https://huggingface.co/datasets/david-DW-ZMW/DeepMSI_datasets)**
+
+
 ## Environment Setup
 
 ### Install Dependencies
@@ -54,11 +63,3 @@ To successfully run this experiment, you will need the following hardware and so
 ```sh   
       python run_MELD.py
 ```
-## Dataset Download Instructions
-
-The preprocessed datasets will be uploaded to a public repository. Please ensure that all datasets are placed under the `data/` directory and organized according to their respective dataset names. You may refer to the configuration file in the `IEMOCAP/` folder for the specific storage structure and naming conventions, or adjust them based on your own preferences.
-
-You can download the **IEMOCAP** and **MELD** datasets from the following Hugging Face link:
-
-🔗 **[https://huggingface.co/datasets/david-DW-ZMW/DeepMSI_datasets](https://huggingface.co/datasets/david-DW-ZMW/DeepMSI_datasets)**
-
