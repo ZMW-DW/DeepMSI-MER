@@ -54,17 +54,11 @@ To successfully run this experiment, you will need the following hardware and so
 ```sh   
       python run_MELD.py
 ```
-Later, I will upload the preprocessed datasets to a public website. Please ensure that you place the datasets into the data folder and store them according to the dataset name. The specific storage paths and naming conventions can be referenced from the config file in the IEMOCAP folder, or you can adjust them according to your preference.
+## Dataset Download Instructions
 
+The preprocessed datasets will be uploaded to a public repository. Please ensure that all datasets are placed under the `data/` directory and organized according to their respective dataset names. You may refer to the configuration file in the `IEMOCAP/` folder for the specific storage structure and naming conventions, or adjust them based on your own preferences.
 
-The download link for the processed IEMOCAP dataset is as follows:
-```sh
-      https://pan.baidu.com/s/1OXYrDnNdxx72vIrSppdZ1w?pwd=4uaa
-```
-      
-The download link for the processed MELD dataset is as follows:
-```sh
-      https://pan.baidu.com/s/1oJ19xlG7ad0DQjZ9eM4Ovg?pwd=i76d
-```
+You can download the **IEMOCAP** and **MELD** datasets from the following Hugging Face link:
 
-And you also download IEMOCAP and MELD datasets from this url： https://huggingface.co/datasets/david-DW-ZMW/DeepMSI_datasets
+🔗 **[https://huggingface.co/datasets/david-DW-ZMW/DeepMSI_datasets](https://huggingface.co/datasets/david-DW-ZMW/DeepMSI_datasets)**
+
